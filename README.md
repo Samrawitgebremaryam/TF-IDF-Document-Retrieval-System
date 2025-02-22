@@ -9,7 +9,6 @@ The **TF-IDF Document Retrieval System** is a Python-based application that util
 - **TF-IDF Vectorization:** Transforms text data into numerical vectors, capturing the importance of terms within documents.
 - **Cosine Similarity Calculation:** Measures the similarity between the query vector and each document vector to assess relevance.
 - **Ranking and Retrieval:** Sorts documents based on their similarity scores and retrieves the top three most relevant ones for each query.
-- **User-Friendly Interface:** Allows users to input multiple queries and displays the top three relevant documents for each.
 
 ## Installation
 
