@@ -18,3 +18,4 @@ The **TF-IDF Document Retrieval System** is a Python-based application that util
    ```bash
    git clone https://github.com/Samrawitgebremaryam/TF-IDF-Document-Retrieval-System.git
    
+2.**Run the notebook**
